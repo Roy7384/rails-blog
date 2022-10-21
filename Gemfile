@@ -26,6 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # get the guide doc
 gem 'redcarpet', '~> 3.1.2'
 
+# haml
+gem "haml"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
